@@ -24,4 +24,4 @@
 
 ![Task 4](https://downloader.disk.yandex.ru/preview/25d33598ee3caa7143aecec68268ec1b0a8808cb13f6399dc115e8bfa93a5913/64b1be13/0Qk5cZGa8oT2-werpPxhhymYszDsRAK3lJr_vjSLWqzXsPZJKFarXtwGjisjTOoOvcTy7O0CwFKJZHobS1Y2_Q%3D%3D?uid=0&filename=task_4.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048)
 
-5. Выложить [историю команд]() в терминале ubuntu
+5. Выложить [историю команд](https://github.com/Pcih/Final_control_work/blob/master/HistoryCommandsUbuntuTerminal.md) в терминале ubuntu
